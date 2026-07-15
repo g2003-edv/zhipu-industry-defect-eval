@@ -1,0 +1,7 @@
+ultralytics==8.1.0
+zhipuai
+opencv-python
+matplotlib
+pandas
+numpy
+pillow
